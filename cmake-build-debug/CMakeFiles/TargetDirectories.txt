@@ -1,0 +1,3 @@
+/Users/wushishang/Desktop/VM/shared/go/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wushishang/Desktop/VM/shared/go/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wushishang/Desktop/VM/shared/go/cmake-build-debug/CMakeFiles/go.dir
